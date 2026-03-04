@@ -1,0 +1,5 @@
+{
+  "name": "J.A.R.V.I.S.",
+  "description": "An advanced AI assistant powered by Gemini Live API.",
+  "requestFramePermissions": ["microphone"]
+}
